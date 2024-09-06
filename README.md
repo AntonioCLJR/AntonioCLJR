@@ -7,7 +7,7 @@
 
  <a href=""><img alt="stats" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=AntonioCLJR&show_icons=true&theme=dark"/>
   </a>
- <a href=""><img alt="linguagens" height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCLJR&layout=compact"/>
+ <a href=""><img alt="linguagens" height="175em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCLJR&layout=compact"/>
   </a>  
 
 <div alling="center" style="display:  inline-block"><br>
