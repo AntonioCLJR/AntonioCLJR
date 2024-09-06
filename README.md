@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntonioCLJR&show_icons=true&theme=dark" />
 </a>
 <a href="">
-  <img align="left" alt="Linguagens" height="194" widht="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCLJR&layout=compact" />
+  <img align="center" alt="Linguagens" height="194" widht="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCLJR&layout=compact" />
 </a>
 
 <div style="display:  inline-block"><br>
