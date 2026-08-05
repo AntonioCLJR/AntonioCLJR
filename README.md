@@ -1,12 +1,10 @@
 <h1 align="center">Olá, eu sou Antonio Carlos 👋</h1>
 
 <p align="center">
-  Desenvolvedor Backend Java apaixonado por criar APIs REST escaláveis e aplicar boas práticas de desenvolvimento.
+  Desenvolvedor Backend Java: APIs REST escaláveis e boas práticas de desenvolvimento.
 </p>
 
 ---
-
-## 🚀 Tecnologias
 
 <div align="center">
 
@@ -23,13 +21,10 @@
 
 ---
 
-## 💼 Sobre mim
-
 - 💻 Desenvolvedor Backend com foco em **Java** e **Spring Boot**
 - 📚 Estudando arquitetura de software, APIs REST e Docker
 - ⚽ Criando projetos para fortalecer meu portfólio, como o **FutFlow**
-- 🎯 Em busca da minha primeira oportunidade como Desenvolvedor Backend
-
+  
 ---
 
 ## 📫 Contato
